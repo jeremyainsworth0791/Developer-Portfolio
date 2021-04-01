@@ -1,7 +1,1 @@
-sass/
-js/
-extras/
-CHANGELOG.md
-Gruntfile.js
-LICENSE
-README.md
+node_modules/
